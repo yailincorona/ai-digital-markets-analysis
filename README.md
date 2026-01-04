@@ -12,7 +12,7 @@ This project was completed as part of DAT301 and refined for portfolio presentat
 
 ---
 
-## Objectivs
+## Objectives
 - Analyze the distribution of AI- generated content across countries
 - Examine trends in AI-generated content over time
 - Explore the relationship between AI content and job loss across industries
