@@ -64,18 +64,19 @@ The complete analysis, including the code, visualizations, and interpretation, i
 ## Selected Visualizations
 
 ### Average AI-Generated Content by Country
-This chart highlights the differences in AI-generated content levels across countries.
+This chart highlights the differences in AI-generated content levels across countries. The visualization suggets that AI usage is unevenly distributed globally, with certain countries exhibiting higher levels of AI-generated content, which may have been caused by a country's technological infrastructure, regulation, or market demand. 
 ![Average AI Content](outputs/avg_ai_content_country.png)
 
-### AI-Generated Content Over Time
-A time-series view showing how AI-generated content has evolved over recent years.
-![AI Content Over Time](outputs/ai_content_over_time.png)
+### Job Loss Trends Over Time by Countries
+This time-series visualizatyion tracks changes in job loss over time, offeringinsight into how workforce displacement may be evolving along side increased AI adoption. The trend suggests periods of acceleration and stabilization, emphasizing the importance of temporal context when evaluating the labor impacts of emerging technologies.
+![Job Loss Trends](outputs/job_loss_trends.png)
 
 ### AI Content vs Job Loss by Industry
-This scatter plot explores the relationship between AI aadoption and reported job displacement across industries.
+This scatter plot explores the relationship between AI adoption and reported job displacement across industries. While higher AI adoption is not uniformly associated with increased job displacement, the visual highlights where rising AI usage may coincide with greater workforce impact, suggesting areas for deeper investigation.
+![AI Content vs Job Loss](outputs/job_loss_trends.png)
 
-### Consumer Trust vs Human_Ai Collaboration
-An examination of how consumer trust relates to levels of human-AI collaboration.
+### Consumer Trust vs Human-AI Collaboration
+An examination of how consumer trust relates to levels of human-AI collaboration. The variations across the observations indicated that collaboration levels may not fully explain trust alone, possibly being affected bythe influence of additional social or organizational factors. 
 ![Trust vs Collaboration](outputs/trust_vs_collab.png)
 
 ---
