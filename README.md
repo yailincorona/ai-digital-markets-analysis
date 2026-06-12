@@ -40,17 +40,28 @@ Dataset source and details are documented in:
 ## Repository Structure
 
 ai-digital-markets-analysis/
-|-- code/
-||-- DAT301-Project2.ipynb
-|-- data/
-||-- dataset-link.md
-|-- outputs/
-||-- DAT301-Project2.html
-||-- avg_ai_content_country.png
-||-- ai_content_over_time.png
-||-- industry_ai_vs_job_loss.png
-||-- trust_vs_collab.png
-|-- README.md
+
+   |-- code/
+
+      ||-- DAT301-Project2.ipynb
+
+   |-- data/
+
+      ||-- dataset-link.md
+
+   |-- outputs/
+
+      ||-- DAT301-Project2.html
+
+      ||-- avg_ai_content_country.png
+
+      ||-- ai_content_over_time.png
+
+      ||-- industry_ai_vs_job_loss.png
+
+      ||-- trust_vs_collab.png
+
+   |-- README.md
 
 ---
 
