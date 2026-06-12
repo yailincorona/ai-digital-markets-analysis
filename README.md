@@ -1,6 +1,7 @@
 # AI and Digital Markets Analysis
 
 **Author:** Yailin Corona-Ruezga
+
 **Degree Program:** Data Science
 
 ---
